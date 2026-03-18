@@ -3,13 +3,13 @@
 source <enter_the_path_of_your_script>/common.sh
 log "common.sh initialized from $(whoami)"
 
-# This will create a log file in your log outputs folder, source command will make your terminal refer to this script file for the relevant commands.
+### This will create a log file in your log outputs folder, source command will make your terminal refer to this script file for the relevant commands.
 
 
 ----------------- proc_watch.sh -----------------
 
 (sleep 120 &) ; "<enter_the_path_of_your_script>/proc_watch.sh" --name 'sleep' --samples 3 --interval 1
-# Will give you log outputs about the running process.
+### Will give you log outputs about the running process.
 
 
 ----------------- fm_tool.sh -----------------
