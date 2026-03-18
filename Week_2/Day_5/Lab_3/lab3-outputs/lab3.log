@@ -1,0 +1,26 @@
+[2026-03-18_00:29:30] common.sh initialized from mehi
+[2026-03-18_00:33:03] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_00:41:28] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_00:41:47] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_00:41:53] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_00:42:01] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_00:53:16] Backup created and verified: /mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/lab3-outputs/lab3-20260318-005316.tgz
+[2026-03-18_00:54:40] Log parsing complete for syslog. Output in lab3-outputs
+[2026-03-18_00:56:04] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.
+log older_than=0)
+[2026-03-18_00:56:20] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_01:04:45] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_01:08:02] Matched files: 0 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_01:09:15] Matched files: 1 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_01:09:15] Created archive: /mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/lab3-outputs/archive-20260318-010915.tgz
+[2026-03-18_01:09:40] Matched files: 1 (dir=/mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/demo pattern=*.log older_than=0)
+[2026-03-18_01:09:40] [dry-run] Would archive 1 files into /mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/lab3-outputs/archive-20260318-010940.tgz
+[2026-03-18_01:11:49] proc pid=3582 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-18_01:11:49] proc pid=3619 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-18_01:11:49] proc pid=3653 cpu=0.0% rss=4MB cmd=awk -v pat=sleep NR>1 { cmd=""; for(i=11;i<=NF;i++) cmd=cmd" "$i; if(cmd ~ pat && cmd !~ /proc_watch\.sh/) printf "%s %s %s %s\n",$2,$3,$6,cmd }
+[2026-03-18_01:12:01] proc pid=3582 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-18_01:12:01] proc pid=3619 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-18_01:12:01] proc pid=3666 cpu=0.0% rss=4MB cmd=awk -v pat=sleep NR>1 { cmd=""; for(i=11;i<=NF;i++) cmd=cmd" "$i; if(cmd ~ pat && cmd !~ /proc_watch\.sh/) printf "%s %s %s %s\n",$2,$3,$6,cmd }
+[2026-03-18_01:11:51] proc pid=3582 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-18_01:11:51] proc pid=3619 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-18_01:11:51] proc pid=3681 cpu=0.0% rss=4MB cmd=awk -v pat=sleep NR>1 { cmd=""; for(i=11;i<=NF;i++) cmd=cmd" "$i; if(cmd ~ pat && cmd !~ /proc_watch\.sh/) printf "%s %s %s %s\n",$2,$3,$6,cmd }
