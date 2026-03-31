@@ -24,3 +24,8 @@ log older_than=0)
 [2026-03-18_01:11:51] proc pid=3582 cpu=0.0% rss=2MB cmd=sleep 120
 [2026-03-18_01:11:51] proc pid=3619 cpu=0.0% rss=2MB cmd=sleep 120
 [2026-03-18_01:11:51] proc pid=3681 cpu=0.0% rss=4MB cmd=awk -v pat=sleep NR>1 { cmd=""; for(i=11;i<=NF;i++) cmd=cmd" "$i; if(cmd ~ pat && cmd !~ /proc_watch\.sh/) printf "%s %s %s %s\n",$2,$3,$6,cmd }
+[2026-03-18_02:00:01] Log parsing complete for syslog. Output in /mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/lab3-outputs
+[2026-03-18_02:30:24] Backup created and verified: /mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/lab3-outputs/lab3-20260318-023024.tgz
+[2026-03-18_03:00:01] Log parsing complete for syslog. Output in /mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/lab3-outputs
+[2026-03-30_23:00:03] Log parsing complete for syslog. Output in /mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/lab3-outputs
+[2026-03-31_00:00:03] Log parsing complete for syslog. Output in /mnt/c/Users/Mehi/OneDrive/Desktop/Ironhack-DevOps/Week_2/Day_5/Lab_3/lab3-outputs

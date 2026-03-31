@@ -1,20 +1,20 @@
-     91 Time
-     39 change
-     21 Daemon
-     18 repeated
-     16 Deactivated
+     68 change
+     44 Daemon
+     25 Deactivated
+     10 target
+     10 repeated
      10 on
-      8 target
-      7 DeprecationWarning
-      7 =
-      6 finished
-      5 
-      4 requested
-      3 wsl-pro.service
-      3 Successfully
-      3 Activating
-      3 -
-      2 wslg-session.service
-      2 uuidd.socket
-      2 user@1000.service
-      2 user-runtime-dir@1000.service
+      9 snapd.seeded.service
+      8 -
+      5 wsl-pro.service
+      5 snapd.service
+      5 finished
+      4 systemd-timedated.service
+      4 Successfully
+      4 Activating
+      4 
+      3 snapd.socket
+      3 requested
+      3 Starting
+      3 Patching
+      3 Exiting
