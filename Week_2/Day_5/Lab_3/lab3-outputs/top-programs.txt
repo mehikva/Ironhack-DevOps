@@ -1,20 +1,20 @@
-     68 change
-     44 Daemon
-     25 Deactivated
+    113 change
+     71 Daemon
+     31 Deactivated
+     16 repeated
      10 target
-     10 repeated
      10 on
+      9 wsl-pro.service
       9 snapd.seeded.service
       8 -
-      5 wsl-pro.service
       5 snapd.service
       5 finished
+      5 Starting
+      5 Exiting
+      5 CMD
+      5 
       4 systemd-timedated.service
+      4 motd-news.service
+      4 man-db.service
       4 Successfully
-      4 Activating
-      4 
-      3 snapd.socket
-      3 requested
-      3 Starting
-      3 Patching
-      3 Exiting
+      4 Scheduled
